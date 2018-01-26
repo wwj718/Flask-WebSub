@@ -1,6 +1,12 @@
 Flask-WebSub
 -------------
 
+# 笔记
+celery 4.0 4.2 在mac下都会出问题
+
+该项目在树莓派下正常
+
+
 An implementation of a WebSub hub, publisher and subscriber as a Flask
 extension. The implementation is meant to be used as a library that can be
 integrated in a larger application.
